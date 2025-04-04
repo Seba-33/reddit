@@ -1,5 +1,6 @@
 import { Component, HostBinding } from '@angular/core';
 
+
 @Component({
   selector: 'app-article',
   imports: [], 
