@@ -5,7 +5,7 @@ import { Article } from './article/article.model';
 
 @Component({
   selector: 'app-root',
-  imports: [RouterOutlet, AppComponent,ArticleComponent, Article],
+  imports: [RouterOutlet, AppComponent,ArticleComponent],
   templateUrl: './app.component.html',
   styleUrl: './app.component.css'
 })
